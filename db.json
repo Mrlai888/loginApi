@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "fff@fff.com",
+      "password": "$2a$10$SHI1s0UldMNQERbLOJ7MWe/soLk7ADjU5R8LYUDpPpkQfOL2glz0u",
+      "gender": 1,
+      "time": 1578059364323,
+      "id": 23
+    },
+    {
+      "username": "123@123.com",
+      "password": "$2a$10$wp8hW4nRM0oY6LMXiy/zX..FJnCJlZGqMZuQACC.MAf8ofT8VcD1K",
+      "gender": 1,
+      "time": 1578275018591,
+      "id": 24
+    }
+  ]
+}
